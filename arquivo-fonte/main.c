@@ -40,7 +40,7 @@ int main()
         printf("   [5]           Entregar Documentos\n");
         printf("   [6]           Ganhadores dos livros\n");
         printf("   [7]           Sair\n");
-        printf(" ========================================\n");
+        printf(" =======================================\n");
         printf(" Informe sua opção: ");
         fflush(stdin);
         scanf("%d",&opc);
