@@ -1,0 +1,201 @@
+# depslib dependency file v1.0
+1563854609 source:c:\users\jessi\desktop\projetoedi\got.c
+
+1563854655 c:\users\jessi\desktop\projetoedi\got.h
+
+1564018362 source:c:\users\jessi\desktop\projetoedi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilha.h"
+	"Fila.h"
+	"Lista.h"
+	"relatorio.h"
+	<locale.h>
+	<windows.h>
+
+1564012018 source:c:\users\jessi\desktop\projetoedi\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fila.h"
+	"Lista.h"
+	"Pilha.h"
+
+1563934458 source:c:\users\jessi\desktop\projetoedi\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilha.h"
+	"Fila.h"
+	"Lista.h"
+
+1564010613 c:\users\jessi\desktop\projetoedi\fila.h
+
+1563905488 c:\users\jessi\desktop\projetoedi\pilha.h
+
+1564018986 c:\users\jessi\desktop\projetoedi\lista.h
+
+1564018109 source:c:\users\jessi\desktop\projetoedi\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+	"Fila.h"
+	"Pilha.h"
+
+1564018986 c:\users\jessi\desktop\projetoedi\relatorio.h
+
+1564018624 source:c:\users\jessi\desktop\projetoedi\relatorio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"relatorio.h"
+
+1564082745 source:c:\users\cliente\desktop\projetoedicerto\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fila.h"
+	"Lista.h"
+	"Pilha.h"
+
+1564082736 c:\users\cliente\desktop\projetoedicerto\fila.h
+
+1564018988 c:\users\cliente\desktop\projetoedicerto\lista.h
+
+1564071700 c:\users\cliente\desktop\projetoedicerto\pilha.h
+
+1564071795 source:c:\users\cliente\desktop\projetoedicerto\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+	"Fila.h"
+	"Pilha.h"
+
+1564084532 source:c:\users\cliente\desktop\projetoedicerto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilha.h"
+	"Fila.h"
+	"Lista.h"
+	"relatorio.h"
+	<locale.h>
+	<windows.h>
+
+1564023390 c:\users\cliente\desktop\projetoedicerto\relatorio.h
+
+1564082765 source:c:\users\cliente\desktop\projetoedicerto\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilha.h"
+	"Fila.h"
+	"Lista.h"
+
+1564084101 source:c:\users\cliente\desktop\projetoedicerto\relatorio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"relatorio.h"
+
+1564082745 source:c:\users\cliente\desktop\projetoedicerto .nome\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fila.h"
+	"Lista.h"
+	"Pilha.h"
+
+1564082736 c:\users\cliente\desktop\projetoedicerto .nome\fila.h
+
+1564018988 c:\users\cliente\desktop\projetoedicerto .nome\lista.h
+
+1564071700 c:\users\cliente\desktop\projetoedicerto .nome\pilha.h
+
+1564071795 source:c:\users\cliente\desktop\projetoedicerto .nome\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+	"Fila.h"
+	"Pilha.h"
+
+1564082765 source:c:\users\cliente\desktop\projetoedicerto .nome\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilha.h"
+	"Fila.h"
+	"Lista.h"
+
+1564086897 source:c:\users\cliente\desktop\projetoedicerto .nome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilha.h"
+	"Fila.h"
+	"Lista.h"
+	"relatorio.h"
+	<locale.h>
+	<windows.h>
+
+1564086014 c:\users\cliente\desktop\projetoedicerto .nome\relatorio.h
+
+1564086014 source:c:\users\cliente\desktop\projetoedicerto .nome\relatorio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"relatorio.h"
+
+1564446106 source:c:\users\jessi\documents\projetoedicerto .nome\fila.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Fila.h"
+	"Lista.h"
+	"Pilha.h"
+
+1564442644 c:\users\jessi\documents\projetoedicerto .nome\fila.h
+
+1564440539 c:\users\jessi\documents\projetoedicerto .nome\lista.h
+
+1564442677 c:\users\jessi\documents\projetoedicerto .nome\pilha.h
+
+1564455618 source:c:\users\jessi\documents\projetoedicerto .nome\lista.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Lista.h"
+	"Fila.h"
+	"Pilha.h"
+
+1564455700 source:c:\users\jessi\documents\projetoedicerto .nome\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilha.h"
+	"Fila.h"
+	"Lista.h"
+	"relatorio.h"
+	<locale.h>
+	<windows.h>
+
+1564440505 c:\users\jessi\documents\projetoedicerto .nome\relatorio.h
+
+1564441737 source:c:\users\jessi\documents\projetoedicerto .nome\pilha.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Pilha.h"
+	"Fila.h"
+	"Lista.h"
+
+1564446394 source:c:\users\jessi\documents\projetoedicerto .nome\relatorio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"relatorio.h"
+
